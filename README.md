@@ -1,1 +1,1 @@
-First commit
+Simple Discord bot that uses ChatGPT to generate responses for a conversation between multiple discord users
